@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment CMakeFiles/inode_test.dir/inode_test.cpp.o -o inode_test  libfs.a libmock.a -lpthread 

@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build",
+  "command": "/usr/bin/c++  -I/home/phytium/FeitengOS/fei-tengos11/src/fs/test/../..  -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -std=gnu++17 -o CMakeFiles/mock.dir/mock/arena.cpp.o -c /home/phytium/FeitengOS/fei-tengos11/src/fs/test/mock/arena.cpp",
+  "file": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/mock/arena.cpp"
+},
+{
+  "directory": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build",
+  "command": "/usr/bin/c++  -I/home/phytium/FeitengOS/fei-tengos11/src/fs/test/../..  -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -std=gnu++17 -o CMakeFiles/mock.dir/mock/list.cpp.o -c /home/phytium/FeitengOS/fei-tengos11/src/fs/test/mock/list.cpp",
+  "file": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/mock/list.cpp"
+},
+{
+  "directory": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build",
+  "command": "/usr/bin/c++  -I/home/phytium/FeitengOS/fei-tengos11/src/fs/test/../..  -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -std=gnu++17 -o CMakeFiles/mock.dir/mock/lock.cpp.o -c /home/phytium/FeitengOS/fei-tengos11/src/fs/test/mock/lock.cpp",
+  "file": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/mock/lock.cpp"
+},
+{
+  "directory": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build",
+  "command": "/usr/bin/c++  -I/home/phytium/FeitengOS/fei-tengos11/src/fs/test/../..  -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -std=gnu++17 -o CMakeFiles/mock.dir/mock/lock_config.cpp.o -c /home/phytium/FeitengOS/fei-tengos11/src/fs/test/mock/lock_config.cpp",
+  "file": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/mock/lock_config.cpp"
+},
+{
+  "directory": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build",
+  "command": "/usr/bin/c++  -I/home/phytium/FeitengOS/fei-tengos11/src/fs/test/../..  -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -std=gnu++17 -o CMakeFiles/mock.dir/mock/panic.cpp.o -c /home/phytium/FeitengOS/fei-tengos11/src/fs/test/mock/panic.cpp",
+  "file": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/mock/panic.cpp"
+},
+{
+  "directory": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build",
+  "command": "/usr/bin/c++  -I/home/phytium/FeitengOS/fei-tengos11/src/fs/test/../..  -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -std=gnu++17 -o CMakeFiles/mock.dir/mock/rc.cpp.o -c /home/phytium/FeitengOS/fei-tengos11/src/fs/test/mock/rc.cpp",
+  "file": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/mock/rc.cpp"
+},
+{
+  "directory": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build",
+  "command": "/usr/bin/c++  -I/home/phytium/FeitengOS/fei-tengos11/src/fs/test/../..  -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -std=gnu++17 -o CMakeFiles/mock.dir/mock/yield.cpp.o -c /home/phytium/FeitengOS/fei-tengos11/src/fs/test/mock/yield.cpp",
+  "file": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/mock/yield.cpp"
+},
+{
+  "directory": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build",
+  "command": "/usr/bin/cc  -I/home/phytium/FeitengOS/fei-tengos11/src/fs/test/../..  -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -fno-builtin -ffreestanding -std=gnu11 -o CMakeFiles/fs.dir/home/phytium/FeitengOS/fei-tengos11/src/fs/block_device.c.o -c /home/phytium/FeitengOS/fei-tengos11/src/fs/block_device.c",
+  "file": "/home/phytium/FeitengOS/fei-tengos11/src/fs/block_device.c"
+},
+{
+  "directory": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build",
+  "command": "/usr/bin/cc  -I/home/phytium/FeitengOS/fei-tengos11/src/fs/test/../..  -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -fno-builtin -ffreestanding -std=gnu11 -o CMakeFiles/fs.dir/home/phytium/FeitengOS/fei-tengos11/src/fs/cache.c.o -c /home/phytium/FeitengOS/fei-tengos11/src/fs/cache.c",
+  "file": "/home/phytium/FeitengOS/fei-tengos11/src/fs/cache.c"
+},
+{
+  "directory": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build",
+  "command": "/usr/bin/cc  -I/home/phytium/FeitengOS/fei-tengos11/src/fs/test/../..  -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -fno-builtin -ffreestanding -std=gnu11 -o CMakeFiles/fs.dir/home/phytium/FeitengOS/fei-tengos11/src/fs/fs.c.o -c /home/phytium/FeitengOS/fei-tengos11/src/fs/fs.c",
+  "file": "/home/phytium/FeitengOS/fei-tengos11/src/fs/fs.c"
+},
+{
+  "directory": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build",
+  "command": "/usr/bin/cc  -I/home/phytium/FeitengOS/fei-tengos11/src/fs/test/../..  -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -fno-builtin -ffreestanding -std=gnu11 -o CMakeFiles/fs.dir/home/phytium/FeitengOS/fei-tengos11/src/fs/inode.c.o -c /home/phytium/FeitengOS/fei-tengos11/src/fs/inode.c",
+  "file": "/home/phytium/FeitengOS/fei-tengos11/src/fs/inode.c"
+},
+{
+  "directory": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build",
+  "command": "/usr/bin/cc  -I/home/phytium/FeitengOS/fei-tengos11/src/fs/test/../..  -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -fno-builtin -ffreestanding -std=gnu11 -o CMakeFiles/fs.dir/instrument.c.o -c /home/phytium/FeitengOS/fei-tengos11/src/fs/test/instrument.c",
+  "file": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/instrument.c"
+},
+{
+  "directory": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build",
+  "command": "/usr/bin/c++  -I/home/phytium/FeitengOS/fei-tengos11/src/fs/test/../..  -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -fno-builtin -ffreestanding -std=gnu++17 -o CMakeFiles/inode_test.dir/inode_test.cpp.o -c /home/phytium/FeitengOS/fei-tengos11/src/fs/test/inode_test.cpp",
+  "file": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/inode_test.cpp"
+},
+{
+  "directory": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build",
+  "command": "/usr/bin/c++  -I/home/phytium/FeitengOS/fei-tengos11/src/fs/test/../..  -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -Wall -Wextra     -O0 -g     -fno-omit-frame-pointer     -fsanitize=undefined     -fno-sanitize=alignment -fno-builtin -ffreestanding -std=gnu++17 -o CMakeFiles/cache_test.dir/cache_test.cpp.o -c /home/phytium/FeitengOS/fei-tengos11/src/fs/test/cache_test.cpp",
+  "file": "/home/phytium/FeitengOS/fei-tengos11/src/fs/test/cache_test.cpp"
+}
+]

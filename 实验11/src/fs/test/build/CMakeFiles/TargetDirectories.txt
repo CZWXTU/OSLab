@@ -1,0 +1,6 @@
+/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build/CMakeFiles/mock.dir
+/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build/CMakeFiles/fs.dir
+/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build/CMakeFiles/inode_test.dir
+/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build/CMakeFiles/cache_test.dir
+/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build/CMakeFiles/edit_cache.dir
+/home/phytium/FeitengOS/fei-tengos11/src/fs/test/build/CMakeFiles/rebuild_cache.dir
